@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="news">News</string>
+    <string name="noNews">There\'s no news at the momment, please try again later</string>
+    <string name="serverError">Server error, please try again later</string>
+    <string name="reload">Reload</string>
+    <string name="turnOnConnection">Please turn on your network connection and try again</string>
+</resources>
